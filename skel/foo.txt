@@ -1,0 +1,10 @@
+Makefile
+foo.txt
+ipc.c
+ipc.h
+ipc.o
+libipc.so
+server
+server.c
+server.h
+server.o
